@@ -1,6 +1,6 @@
 # Sheikh Samiul Huda — Portfolio
 
-Personal portfolio of Sheikh Samiul Huda, Software Engineer specializing in Flutter, fintech applications, and mobile security.
+Personal portfolio of Sheikh Samiul Huda, Software Engineer specializing in fintech mobile applications and mobile security.
 
 GitHub profile: https://github.com/samiul-huda1137
 
